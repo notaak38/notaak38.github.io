@@ -150,3 +150,8 @@
   }
 
 .phb table tbody tr:nth-child(odd) {background-color: #9efeff ;}
+
+.phb .bookmaniaregularClass {
+	font-family: bookmaniaregular;
+}
+
