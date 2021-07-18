@@ -1,0 +1,261 @@
+/* Background */
+  .phb { background-image: url("https://i.imgur.com/38yABxg.png") }
+  .phb { background-size: cover }
+
+/*Fonts*/
+  .phb h1 {
+    color:  #ffffff;
+    font-family: "Orbitron";
+    font-variant: small-caps;
+  	font-weight: normal;
+    letter-spacing: 0.02em; }
+  .phb h2 {
+    color: #ffffff;
+    font-family: "Orbitron";
+  	font-weight: normal;
+    font-variant: caps;
+    letter-spacing: 0.02em; }
+  .phb h3 {
+    color: #ffffff;
+    border-bottom:1.5pt solid  #23bedd ;
+    font-family: "Orbitron";
+  	font-weight: normal;
+    font-variant: caps;
+    letter-spacing: 0.02em; }
+  .phb h4 {
+    color: #ffffff;
+    font-family: "Orbitron";
+  	font-weight: normal;
+    font-variant: caps;
+    letter-spacing: 0.02em; }
+  .phb h5 {
+    color: #ffffff;
+    font-family: "Orbitron";
+  	font-weight: normal;
+    font-variant: caps;
+    letter-spacing: 0.02em; }
+   .phb {
+  	color:  #23bedd ;
+    font-family: "Orbitron";
+  	font-weight: normal;
+    font-size: 12.5px;
+    letter-spacing: 0.015em; }
+
+/* Notes */
+  .phb blockquote {
+    background-color: transparent;
+    background-image: url("https://i.imgur.com/2BqhOpm.png");
+    background-position: center;
+  	background-size: 20% 98%;
+    }
+  .phb blockquote h1 {
+    color: #ffffff;
+    font-family: "Orbitron";
+  	font-weight: normal;
+    font-variant: small-caps;
+    letter-spacing: 0.02em; }
+  .phb blockquote h2 {
+    color: #ffffff;
+    font-family: "Orbitron";
+  	font-weight: normal;
+    font-variant: small-caps;
+    letter-spacing: 0.02em; }
+  .phb blockquote h3 {
+    color: #ffffff;
+    border-bottom:1.5pt solid #d1e5d9;
+    font-family: "Orbitron";
+  	font-weight: normal;
+    font-variant: small-caps;
+    letter-spacing: 0.02em; }
+  .phb blockquote h4 {
+    color: #ffffff;
+    font-family: "Orbitron";
+  	font-weight: normal;
+    font-variant: small-caps;
+    letter-spacing: 0.02em; }
+  .phb blockquote h5 { 
+  	color:  #ffffff ;
+  	font-variant: small-caps;
+ 	font-family: "Orbitron";
+  	font-weight: normal;
+  	}
+  .phb blockquote {color: #23bedd }
+   	
+  
+/*Description Block*/
+  .phb .descriptive {
+ 	background-color: transparent;
+    background-image: url("https://i.imgur.com/2BqhOpm.png");
+    background-position: center;
+  	background-size: 20% 98%;
+  	}
+  .phb blockquote h1 {
+    color: #ffffff;
+    font-family: "Orbitron";
+  	font-weight: normal;
+    font-variant: small-caps;
+    letter-spacing: 0.02em; }
+  .phb blockquote h2 {
+    color: #ffffff;
+    font-family: "Orbitron";
+  	font-weight: normal;
+    font-variant: small-caps;
+    letter-spacing: 0.02em; }
+  .phb blockquote h3 {
+    color: #ffffff;
+    border-bottom:1.5pt solid #23bedd;
+    font-family: "Orbitron";
+  	font-weight: normal;
+    font-variant: small-caps;
+    letter-spacing: 0.02em;}
+  .phb blockquote h4 {
+    color: #ffffff;
+    font-family: "Orbitron";
+  	font-weight: normal;
+    font-variant: small-caps;
+    letter-spacing: 0.02em; }
+   .phb blockquote h5 { 
+  	color:  #ffffff ;
+  	font-variant: small-caps;
+ 	font-family: "Orbitron";
+  	font-weight: normal;
+  	}
+  .phb .descriptive{ 
+  	color: #23bedd; 
+  	font-variant: normal;
+ 	font-family: "Orbitron"; }
+  
+/* Tables */
+  table tr:nth-child(odd) td { background-color: #1d1d1d; color: #23bedd }
+  .phb .classTable {
+    font-family: "Orbitron";
+  	font-weight: normal;
+    font-variant: small-caps;
+  	border-image-outset: 16px 25px !important;
+    width:90%;
+  	height:49%;
+    margin-left:auto;
+    margin-right:auto;
+    line-height:11px;
+    border-image-source: url(https://i.imgur.com/5Wh2CM9.png);
+    background-color: transparent; 
+  	background-image: url(https://i.imgur.com/2BqhOpm.png) ;
+  	
+  	}
+  .phb .classTable h5 {
+  	color: #ffffff; 
+  	font-family: "Orbitron";
+  	font-weight: 100;
+  	text-align: center;
+  	}
+  .phb .classTable {
+    color: #23bedd; 
+  	font-family: "Orbitron";
+  	font-weight: normal;
+  	font-variant: small-caps; 
+  	}
+  .phb table {
+    color: #23bedd; 
+  	font-family: "Orbitron";
+  	font-weight: normal;
+  	font-size: 12px;
+  	font-variant: small-caps; 
+  	}
+
+  /* Statblocks */
+  .phb hr + blockquote tr:nth-child(odd) td {
+    color: #ffffff;
+    background-color: transparent; }
+  .phb hr + blockquote {
+    background-color: transparent;
+    background-image: none;
+    background-position: center center; 
+    border-width: 6px;
+    border-image: url(https://i.imgur.com/bwoGam7.png);
+    border-image-slice: 20 
+    }
+  .phb hr+blockquote hr{background-image: url(https://i.imgur.com/DOeSXF7.png)}
+  .phb hr+blockquote h2 {
+  	color: #ffffff;
+    font-family: "Orbitron";
+  	font-weight: normal;
+    font-variant: small-caps;
+    }
+  .phb hr+blockquote h3 {color: #ff1919; border-bottom:0.9pt solid #ff1919}
+  .phb hr+blockquote hr+ul{color: #d1e5d9;}
+  .phb hr+blockquote table{color: #ff1919;}
+  .phb hr+blockquote {
+    font-family: "Orbitron";
+  	font-weight: normal;
+    font-variant: normal;
+  	font-weight: 500;
+  }
+  .phb hr+blockquote strong {color: #ff1919;}
+  
+
+/* Footer */
+  .phb:nth-child(odd):after{ 
+    content          : '';
+    position         : absolute;
+    bottom           : -1px;
+    left             : -1px;
+    z-index          : 100;
+    height           : 100%;
+    width            : 100%;
+    background-image : url('https://i.imgur.com/FQ81a7O.png');
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 310px 128px;
+    }
+
+  .phb:nth-child(even):after{ 
+    content          : '';
+    position         : absolute;
+    bottom           : -1px;
+    left             : 1px;
+    z-index          : 100;
+    height           : 100%;
+    width            : 100%;
+    background-image : url('https://i.imgur.com/FQ81a7O.png');
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 310px 128px;
+    }
+
+/* Footnote */
+  .phb .footnote{
+    position   : absolute;
+    right      : 90px;
+    bottom     : 42px;
+    z-index    : 150;
+    text-align : right;
+    color      : #dff2e7;
+    }
+
+
+/* Page Number */
+  .phb .pageNumber{
+    position   : absolute;
+    bottom     : 49px;
+    width      : 50px;
+    color      : #d1e5d9;
+    text-align : center;
+    }
+
+  .phb .pageNumber.auto{
+    position   : absolute;
+    bottom     : 49px;
+    width      : 50px;
+    text-align : center;
+    }
+
+  .phb:nth-child(even) .pageNumber.auto{
+    left: 12px;
+    }
+  .phb:nth-child(odd) .pageNumber.auto{
+    right: 12px;
+    }
+
+/* Links */
+  .phb a:link{ color: #870e0e; }
+  .phb a:visited { color: #cf2d2d; }

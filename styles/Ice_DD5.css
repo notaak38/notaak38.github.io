@@ -1,0 +1,17 @@
+/* Sheet Size */
+.phb {
+   width : 210mm;
+   height : 296mm;
+}
+
+/* Background */
+.phb { 
+   	background-color:#9efeff; 
+	background-blend-mode:overlay; 
+}
+
+/*Fonts*/
+.phb p {text-align: justify;}
+
+.phb table tbody tr:nth-child(odd) {background-color: #9efeff ;}
+
